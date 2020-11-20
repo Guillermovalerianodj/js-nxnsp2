@@ -5,5 +5,5 @@ import "./style.css";
 let arreglo = ["ruby", "c", "python", "javascript"];
 arreglo.forEach(function(elemento) {
   console.log(elemento);
-  alert(elemento);
+  //alert(elemento);
 });
